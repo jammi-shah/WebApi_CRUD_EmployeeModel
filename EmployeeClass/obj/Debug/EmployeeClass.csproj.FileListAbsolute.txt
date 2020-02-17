@@ -1,0 +1,12 @@
+C:\Users\jammi\Documents\Visual Studio 2015\Projects\WebApi\EmployeeClass\bin\Debug\EmployeeClass.dll.config
+C:\Users\jammi\Documents\Visual Studio 2015\Projects\WebApi\EmployeeClass\bin\Debug\EmployeeClass.dll
+C:\Users\jammi\Documents\Visual Studio 2015\Projects\WebApi\EmployeeClass\bin\Debug\EmployeeClass.pdb
+C:\Users\jammi\Documents\Visual Studio 2015\Projects\WebApi\EmployeeClass\bin\Debug\EntityFramework.dll
+C:\Users\jammi\Documents\Visual Studio 2015\Projects\WebApi\EmployeeClass\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jammi\Documents\Visual Studio 2015\Projects\WebApi\EmployeeClass\bin\Debug\EntityFramework.xml
+C:\Users\jammi\Documents\Visual Studio 2015\Projects\WebApi\EmployeeClass\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jammi\Documents\Visual Studio 2015\Projects\WebApi\EmployeeClass\obj\Debug\EmployeeClass.csprojAssemblyReference.cache
+C:\Users\jammi\Documents\Visual Studio 2015\Projects\WebApi\EmployeeClass\obj\Debug\EmployeeClass.csproj.CoreCompileInputs.cache
+C:\Users\jammi\Documents\Visual Studio 2015\Projects\WebApi\EmployeeClass\obj\Debug\EmployeeClass.csproj.CopyComplete
+C:\Users\jammi\Documents\Visual Studio 2015\Projects\WebApi\EmployeeClass\obj\Debug\EmployeeClass.dll
+C:\Users\jammi\Documents\Visual Studio 2015\Projects\WebApi\EmployeeClass\obj\Debug\EmployeeClass.pdb
